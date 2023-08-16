@@ -2,15 +2,14 @@
 This project is focused on building a machine learning model to predict if the SpaceX Falcon 9 first stage will land successfully.
 
 ## Summary
-– First stage accounts for about 75 percent of the total vehicle cost. So A successful Landing saves approximately $27.5 million
-and increases the gross margin from 40% to 77%, and the same rocket can be used for dozens of time or more.
-– The Data was collected from an API and we did Web scraping from Wikipedia by using Beautiful Soup library.
-– Did Data Wrangling and Exploratory Data Analysis (EDA) using SQL and Matplotlib to find some patterns in the
-data and determine what would be the label for training supervised models, and performed Feature Engineering.
-– Built an Interactive Dashboard to visualize/analyze launch records interactively with Plotly Dash. Then built an
-interactive map to analyze the launch site proximity with Folium.
-– Applied 5 Machine learning models such as Logistic Regression, KNN, SVM, Decision Tree and Random Forest
-to predict if the launch will be successful or not. Also Submitted a PPT of my whole work
+* First stage accounts for 75% of total vehicle costs. Substantial savings of $27.5 million can be achieved through successful landings, elevating gross margin
+from 40% to 77%. Demonstrated reusability with multi‑launch capabilities.
+* Curated and analyzed data from diverse sources, employing API integration and web scraping (Beautiful Soup) for efficient data collection. Utilized SQL and
+Matplotlib for Data Wrangling, EDA, and Feature Engineering, unveiling valuable insights.
+* Engineered an Interactive Dashboard using Plotly Dash, providing an intuitive interface to explore launch records. Crafted a geographical map using Folium
+to assess launch site proximity, enhancing decision‑making.
+* Applied 5 distinct Machine Learning models including Logistic Regression, KNN, SVM, Decision Tree, and Random Forest to accurately predict launch out‑
+comes. Summarized the project comprehensively through a professional PowerPoint presentation.
 
 ## Summary of methodologies
 This project follows these steps:
